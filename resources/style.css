@@ -1,4 +1,39 @@
 body {
     background-color: black;
-
+    font-family: sans-serif;
+    color: white;
 }
+
+.navigation li a {
+    color: white;
+    cursor: pointer;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem 0rem;
+}
+
+#home {
+    margin-top: 10rem;
+    line-height: 1.6;
+    display: flex;
+    padding: 0.5rem 2rem;
+}
+
+#home h3 {
+    font-size: 1.5rem;
+}
+
+#home h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    color: #ffc60a;
+}
+
+.home-info {
+    margin-top: 10%;
+}
+
