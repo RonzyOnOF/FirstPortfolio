@@ -66,6 +66,40 @@ body {
     position: relative;
 }
 
+.skills {
+    text-align: center;
+    margin-top: 20rem;
+}
+
+.skills h2 {
+    font-size: 3rem;
+}
+
+.skill-html {
+    width: 15%;
+    height: auto;
+}
+
+.skill-css {
+    width: 15%;
+    height: auto;
+}
+
+.skill-javascript {
+    width: 15%;
+    height: auto;
+}
+
+
+.skill-java {
+    width: 15%;
+    height: auto;
+}
+
+.skill-python {
+    width: 15%;
+    height: auto;
+}
 
 
 
